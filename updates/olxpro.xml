@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.5.12</version>
-  <url>https://github.com/pietropck12/olx-pro/releases/download/v2.5.12/OlxPro-Setup.exe</url>
-  <changelog>https://github.com/pietropck12/olx-pro/releases/tag/v2.5.12</changelog>
+  <version>2.5.13</version>
+  <url>https://github.com/pietropck12/olx-pro/releases/download/v2.5.13/OlxPro-Setup.exe</url>
+  <changelog>https://github.com/pietropck12/olx-pro/releases/tag/v2.5.13</changelog>
   <mandatory>true</mandatory>
 </item>
